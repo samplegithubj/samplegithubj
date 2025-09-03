@@ -67,21 +67,30 @@ Currently exploring **compliance frameworks, vulnerability assessment, and incid
 
 ## 🚀 Featured Projects  
 
-- [🔹 ORPP E-Recruitment System](https://github.com/samplegithubj/ORPP_App) – Secure Android-based recruitment platform for the **Office of the Registrar of Political Parties (ORPP)**.  
-  - **Frontend**: Android (Java)  
-  - **Backend**: Firebase Firestore & Authentication  
-  - **Features**: Secure job applications, applicant tracking, notifications, data archival  
-  - **Outcome**: Improved transparency, reduced manual errors, ensured compliance with data protection  
+### 🔹 ORPP E-Recruitment System  
+[![Repo stars](https://img.shields.io/github/stars/samplegithubj/ORPP_App?style=social)](https://github.com/samplegithubj/ORPP_App)  
+- Secure Android-based recruitment platform for the **Office of the Registrar of Political Parties (ORPP)**.  
+- **Frontend**: Android (Java)  
+- **Backend**: Firebase Firestore & Authentication  
+- **Features**: Secure job applications, applicant tracking, notifications, data archival  
+- **Outcome**: Improved transparency, reduced manual errors, ensured compliance with data protection  
 
-- [📱 Lost & Found Mobile App](https://github.com/samplegithubj/lost-and-found-app) – Android app designed to help users report and recover lost personal items.  
-  - **Frontend**: Android (Java, XML UI)  
-  - **Backend**: Firebase Realtime Database & Storage  
-  - **Features**: Report lost/found items, claim verification, geolocation tagging, and secure data handling  
-  - **Outcome**: Helped users quickly locate items, creating a safe and efficient digital lost-and-found platform  
+### 📱 Lost & Found Mobile App  
+[![Repo stars](https://img.shields.io/github/stars/samplegithubj/lost-and-found-app?style=social)](https://github.com/samplegithubj/lost-and-found-app)  
+- Android app to help users report and recover lost items.  
+- **Frontend**: Android (Java, XML UI)  
+- **Backend**: Firebase Realtime Database & Storage  
+- **Features**: Report lost/found items, claim verification, geolocation tagging, secure data handling  
+- **Outcome**: Helped users quickly locate items, creating a safe and efficient digital lost-and-found platform  
 
-- [🔐 Cybersecurity Toolkit](https://github.com/samplegithubj/cybersecurity-toolkit) – Scripts & tools for penetration testing & risk assessment.  
-- [☁️ AWS Cloud Labs](https://github.com/samplegithubj/aws-cloud-labs) – Hands-on AWS configurations for beginners.  
-- [🛡️ Risk & Compliance Frameworks](https://github.com/samplegithubj/risk-compliance-frameworks) – Templates for IT audits & security governance.  
+### 🔐 Cybersecurity Toolkit  
+- [Cybersecurity Toolkit](https://github.com/samplegithubj/cybersecurity-toolkit) – Scripts & tools for penetration testing & risk assessment.  
+
+### ☁️ AWS Cloud Labs  
+- [AWS Cloud Labs](https://github.com/samplegithubj/aws-cloud-labs) – Hands-on AWS configurations for beginners.  
+
+### 🛡️ Risk & Compliance Frameworks  
+- [Risk & Compliance Frameworks](https://github.com/samplegithubj/risk-compliance-frameworks) – Templates for IT audits & security governance.  
 
 ---
 
