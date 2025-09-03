@@ -103,7 +103,7 @@ Templates & guides for **IT audits, compliance checks, and governance frameworks
 ## 📰 Latest Articles / Posts  
 
 [![Medium](https://img.shields.io/badge/Medium-Blog-00ab6c?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@samplegithubj)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Posts-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/john-were-6178b41a6//detail/recent-activity/posts/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Posts-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/john-were-6178b41a6/)  
 
 ---
 
