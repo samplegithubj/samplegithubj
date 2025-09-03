@@ -43,6 +43,18 @@ Currently exploring **compliance frameworks, vulnerability assessment, and incid
 
 ---
 
+## 📜 Certifications  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google-Cybersecurity%20Professional-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-CyberOps%20Associate-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Huawei-HCIA%20Datacom-FF0000?style=for-the-badge&logo=huawei&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>  
+
+---
+
 ## 📊 GitHub Stats  
 
 <p align="center">
