@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=1E90FF&center=true&vCenter=true&lines=Hi%2C+I'm+John+Wafula+Were+👋;Cybersecurity+%26+Cloud+Enthusiast;Risk+Management+%7C+IT+Governance;AWS+%7C+Network+Security+%7C+Compliance" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+John+Wafula+Were+👋;Cybersecurity+%26+Cloud+Enthusiast;Risk+Management+%7C+IT+Governance;AWS+%7C+Network+Security+%7C+Compliance;Vulnerability+Assessment+%7C+Threat+Detection" alt="Typing SVG">
 </p>
 
 ---
@@ -10,7 +10,7 @@
 💻 **Cybersecurity & Cloud Enthusiast** | 🌍 Based in Kenya  
 
 I’m passionate about **risk management, IT governance, cloud security (AWS)**, and **network defense**.  
-Currently exploring **compliance frameworks** and building projects that strengthen security in IT environments.  
+Currently exploring **compliance frameworks, vulnerability assessment, and incident response** while building projects that strengthen IT security.  
 
 ---
 
@@ -33,6 +33,9 @@ Currently exploring **compliance frameworks** and building projects that strengt
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Security-4285F4?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Network%20Security-005571?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Risk%20Management-2F855A?style=for-the-badge&logo=shield&logoColor=white" />
 </p>  
 
 ---
@@ -60,7 +63,6 @@ Currently exploring **compliance frameworks** and building projects that strengt
 
 ## 📰 Latest Articles / Posts  
 
-<!-- Medium / LinkedIn latest posts using RSS/Widgets -->
 [![Medium](https://img.shields.io/badge/Medium-Blog-00ab6c?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@samplegithubj)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Posts-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-wafula-were/detail/recent-activity/posts/)  
 
@@ -84,5 +86,4 @@ Currently exploring **compliance frameworks** and building projects that strengt
 
 ## 📈 Recent GitHub Activity  
 
-<!-- Dynamic widget showing latest GitHub activity -->
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samplegithubj&theme=react-dark)](https://github.com/samplegithubj)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samplegithubj&theme=react-dark)](https://github.com/samplegithubj)  
