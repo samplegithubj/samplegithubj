@@ -62,6 +62,12 @@ Currently exploring **compliance frameworks, vulnerability assessment, and incid
   - **Features**: Secure job applications, applicant tracking, notifications, data archival  
   - **Outcome**: Improved transparency, reduced manual errors, ensured compliance with data protection  
 
+- [📱 Lost & Found Mobile App](https://github.com/samplegithubj/lost-and-found-app) – Android app designed to help users report and recover lost personal items.  
+  - **Frontend**: Android (Java, XML UI)  
+  - **Backend**: Firebase Realtime Database & Storage  
+  - **Features**: Report lost/found items, claim verification, geolocation tagging, and secure data handling  
+  - **Outcome**: Helped users quickly locate items, creating a safe and efficient digital lost-and-found platform  
+
 - [🔐 Cybersecurity Toolkit](https://github.com/samplegithubj/cybersecurity-toolkit) – Scripts & tools for penetration testing & risk assessment.  
 - [☁️ AWS Cloud Labs](https://github.com/samplegithubj/aws-cloud-labs) – Hands-on AWS configurations for beginners.  
 - [🛡️ Risk & Compliance Frameworks](https://github.com/samplegithubj/risk-compliance-frameworks) – Templates for IT audits & security governance.  
