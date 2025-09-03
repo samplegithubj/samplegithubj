@@ -21,8 +21,8 @@ Currently exploring **compliance frameworks, vulnerability assessment, and incid
 ![GitHub followers](https://img.shields.io/github/followers/samplegithubj?style=social)  
 ![GitHub stars](https://img.shields.io/github/stars/samplegithubj?style=social)  
 ![Profile views](https://komarev.com/ghpvc/?username=samplegithubj&label=Profile%20views&color=0e75b6&style=flat)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/john-wafula-were)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail&logoColor=white)](mailto:johnwere829@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/john-were-6178b41a6/)  
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail&logoColor=white)](mailto:johnwere742@gmail.com)  
 
 ---
 
