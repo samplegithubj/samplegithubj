@@ -12,6 +12,8 @@
 I’m passionate about **risk management, IT governance, cloud security (AWS)**, and **network defense**.  
 Currently exploring **compliance frameworks, vulnerability assessment, and incident response** while building projects that strengthen IT security.  
 
+🔗 **Explore my work:** [View Live Portfolio](https://johnwere.netlify.app/)  
+
 ---
 
 ## 🔗 Profile Badges  
