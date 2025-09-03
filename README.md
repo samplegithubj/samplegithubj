@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+John+Wafula+Were+👋;Cybersecurity+%26+Cloud+Enthusiast;Risk+Management+%7C+IT+Governance;AWS+%7C+Network+Security+%7C+Compliance;Vulnerability+Assessment+%7C+Threat+Detection" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+John+Wafula+Were+👋;Cybersecurity+%26+Cloud+Enthusiast;Risk+Management+%7C+IT+Governance;AWS+%7C+Firebase+%7C+Compliance;Vulnerability+Assessment+%7C+Threat+Detection" alt="Typing SVG">
 </p>
 
 ---
@@ -9,7 +9,7 @@
 
 💻 **Cybersecurity & Cloud Enthusiast** | 🌍 Based in Kenya  
 
-I’m passionate about **risk management, IT governance, cloud security (AWS)**, and **network defense**.  
+I’m passionate about **risk management, IT governance, cloud security (AWS, Firebase)**, and **network defense**.  
 Currently exploring **compliance frameworks, vulnerability assessment, and incident response** while building projects that strengthen IT security.  
 
 ---
@@ -28,6 +28,7 @@ Currently exploring **compliance frameworks, vulnerability assessment, and incid
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -54,6 +55,12 @@ Currently exploring **compliance frameworks, vulnerability assessment, and incid
 ---
 
 ## 🚀 Featured Projects  
+
+- [🔹 ORPP E-Recruitment System](https://github.com/samplegithubj/ORPP_App) – Secure Android-based recruitment platform for the **Office of the Registrar of Political Parties (ORPP)**.  
+  - **Frontend**: Android (Java)  
+  - **Backend**: Firebase Firestore & Authentication  
+  - **Features**: Secure job applications, applicant tracking, notifications, data archival  
+  - **Outcome**: Improved transparency, reduced manual errors, ensured compliance with data protection  
 
 - [🔐 Cybersecurity Toolkit](https://github.com/samplegithubj/cybersecurity-toolkit) – Scripts & tools for penetration testing & risk assessment.  
 - [☁️ AWS Cloud Labs](https://github.com/samplegithubj/aws-cloud-labs) – Hands-on AWS configurations for beginners.  
