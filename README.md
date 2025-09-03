@@ -69,30 +69,32 @@ Currently exploring **compliance frameworks, vulnerability assessment, and incid
 
 ### 🔹 ORPP E-Recruitment System  
 [![Repo stars](https://img.shields.io/github/stars/samplegithubj/ORPP_App?style=social)](https://github.com/samplegithubj/ORPP_App)  
-- Secure Android-based recruitment platform for the **Office of the Registrar of Political Parties (ORPP)**.  
-- **Frontend**: Android (Java)  
-- **Backend**: Firebase Firestore & Authentication  
-- **Features**: Secure job applications, applicant tracking, notifications, data archival  
-- **Outcome**: Improved transparency, reduced manual errors, ensured compliance with data protection  
-
-### 📱 Lost & Found Mobile App  
-[![Repo stars](https://img.shields.io/github/stars/samplegithubj/lost-and-found-app?style=social)](https://github.com/samplegithubj/lost-and-found-app)  
-- Android app to help users report and recover lost items.  
-- **Frontend**: Android (Java, XML UI)  
-- **Backend**: Firebase Realtime Database & Storage  
-- **Features**: Report lost/found items, claim verification, geolocation tagging, secure data handling  
-- **Outcome**: Helped users quickly locate items, creating a safe and efficient digital lost-and-found platform  
-
-### 🔐 Cybersecurity Toolkit  
-- [Cybersecurity Toolkit](https://github.com/samplegithubj/cybersecurity-toolkit) – Scripts & tools for penetration testing & risk assessment.  
-
-### ☁️ AWS Cloud Labs  
-- [AWS Cloud Labs](https://github.com/samplegithubj/aws-cloud-labs) – Hands-on AWS configurations for beginners.  
-
-### 🛡️ Risk & Compliance Frameworks  
-- [Risk & Compliance Frameworks](https://github.com/samplegithubj/risk-compliance-frameworks) – Templates for IT audits & security governance.  
+Secure Android-based recruitment platform for the **Office of the Registrar of Political Parties (ORPP)** with applicant & HR dashboards, Firebase integration, and automated workflows.  
 
 ---
+
+### 🔹 Lost & Found App  
+[![Repo stars](https://img.shields.io/github/stars/samplegithubj/lost-and-found-app?style=social)](https://github.com/samplegithubj/lost-and-found-app)  
+Mobile app that helps users **report, search, and claim lost items**. Built with Java & Firebase for real-time updates.  
+
+---
+
+### 🔹 Cybersecurity Toolkit  
+[![Repo stars](https://img.shields.io/github/stars/samplegithubj/cybersecurity-toolkit?style=social)](https://github.com/samplegithubj/cybersecurity-toolkit)  
+Scripts & tools for penetration testing, **risk assessment**, and automating security checks.  
+
+---
+
+### 🔹 AWS Cloud Labs  
+[![Repo stars](https://img.shields.io/github/stars/samplegithubj/aws-cloud-labs?style=social)](https://github.com/samplegithubj/aws-cloud-labs)  
+Hands-on AWS configurations and cloud security exercises for beginners and professionals.  
+
+---
+
+### 🔹 Risk & Compliance Frameworks  
+[![Repo stars](https://img.shields.io/github/stars/samplegithubj/risk-compliance-frameworks?style=social)](https://github.com/samplegithubj/risk-compliance-frameworks)  
+Templates & guides for **IT audits, compliance checks, and governance frameworks**.  
+
 
 ## 📰 Latest Articles / Posts  
 
