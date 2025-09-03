@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+John+Wafula+Were+👋;Cybersecurity+%26+Cloud+Enthusiast;Risk+Management+%7C+IT+Governance;AWS+%7C+Firebase+%7C+Compliance;Vulnerability+Assessment+%7C+Threat+Detection" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&pause=1000&color=1E90FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+John+Wafula+Were+👋;Cybersecurity+%26+Cloud+Enthusiast;Risk+Management+%7C+IT+Governance;AWS+%7C+Firebase+%7C+Compliance;Vulnerability+Assessment+%7C+Threat+Detection" alt="Typing SVG">
 </p>
 
 ---
@@ -24,9 +24,10 @@ Currently exploring **compliance frameworks, vulnerability assessment, and incid
 
 ---
 
-## 🔧 Skills & Technologies  
+## 🔧 Skills, Technologies & Certifications  
 
 <p align="center">
+  <!-- Core Tech -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
@@ -38,6 +39,16 @@ Currently exploring **compliance frameworks, vulnerability assessment, and incid
   <img src="https://img.shields.io/badge/Network%20Security-005571?style=for-the-badge&logo=proxmox&logoColor=white" />
   <img src="https://img.shields.io/badge/Risk%20Management-2F855A?style=for-the-badge&logo=shield&logoColor=white" />
 </p>  
+
+### 🎓 Certifications  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco%20CyberOps%20Associate-0066CC?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Professional-34A853?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/HCIA%20Datacom-0070C9?style=for-the-badge&logo=huawei&logoColor=white" />
+</p>
 
 ---
 
