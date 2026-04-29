@@ -129,10 +129,11 @@ Templates & guides for **IT audits, compliance checks, and governance frameworks
 
 ---
 
-## ✨ Fun / Random Quote  
+## ✨ Engineering Philosophy  
 
-> “Security is not a product, but a process.” – Bruce Schneier  
-> *“Stay curious, keep learning, and protect what matters.”*  
+> *“The only way to go fast is to go well.”* – Robert C. Martin (Uncle Bob)  
+
+*“Stay curious, write clean code, and build systems that last.”*  
 
 ---
 
