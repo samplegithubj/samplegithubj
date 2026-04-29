@@ -74,15 +74,16 @@ I build **production-ready full-stack applications** with a **secure-by-design**
 
 ### 🔹 CEMS – Customer Experience Management System  
 [![Repo stars](https://img.shields.io/github/stars/samplegithubj/cems?style=social)](https://github.com/samplegithubj/cems)  
-**LIVE PRODUCTION** - Full-stack system for ORPP handling 50,000+ annual service requests. Deployed on **Apache/Debian** with **MySQL** primary DB and **Firestore** real-time backup. Achieved 92% customer satisfaction (up from 65% baseline).  
-🔗 **Live:** [sdacms.web.app](https://sdacms.web.app) 
+**LIVE PRODUCTION** - Full-stack system for ORPP handling 50,000+ annual service requests. Deployed on **Apache/Debian** with **MySQL** primary DB and **Firestore** real-time backup. Achieved 92% customer satisfaction (up from 65% baseline).
+🔗 **Live:** [cems.orpp.or.ke](https://cems.orpp.or.ke)
+
 
 ---
 
 ### 🔹 Umoja SDA – Church & School Funds Management  
 [![Repo stars](https://img.shields.io/github/stars/samplegithubj/umoja-sda-system?style=social)](https://github.com/samplegithubj/umoja-sda-system)  
 Complete dual-entity financial system with **React + Firebase**. Manages students, church members, tithes/offerings, fees, expenses, payroll, and financial reports. Implements 5 user roles with strict Firestore security rules.  
-🔗 **Live:** [cems.orpp.or.ke](https://cems.orpp.or.ke)  
+🔗 **Live:** [sdacms.web.app](https://sdacms.web.app)   
 
 ---
 
