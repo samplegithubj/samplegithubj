@@ -1,4 +1,4 @@
-<!-- Animated Banner -->
+ <!-- Animated Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=1E90FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+John+Wafula+Were;Software+Engineer+%7C+Full-Stack+Developer;Cloud+%26+Cybersecurity;Secure+by+Design;Building+Practical+Digital+Solutions" alt="John Wafula Were — Software Engineer, Full-Stack Developer, Cloud and Cybersecurity" />
 </p>
@@ -22,11 +22,11 @@
 
 I am **John Wafula Were**, a software engineer and full-stack developer based in Kenya, focused on building secure, practical, and maintainable digital solutions.
 
-My work spans full-stack web development, database design, system integration, Linux server administration, cloud technologies, and cybersecurity. I am particularly interested in applying technology to improve business processes, strengthen information security, and support digital transformation.
+My work spans full-stack web development, database design, system integration, Linux server administration, cloud technologies, and cybersecurity. I am interested in using technology to improve business processes, strengthen information security, and support digital transformation.
 
 I have worked on production-oriented systems involving customer experience management, digital recruitment, and financial management. My approach emphasizes **secure-by-design development, role-based access control (RBAC), data integrity, usability, and reliable deployment**.
 
-I am open to opportunities in software engineering, cloud and cybersecurity, and ICT consulting.
+I welcome opportunities in software engineering, cloud and cybersecurity, and ICT consulting.
 
 - **Location:** Kenya
 - **Primary focus:** Full-stack software engineering
@@ -51,11 +51,11 @@ I am open to opportunities in software engineering, cloud and cybersecurity, and
 
 ### Areas of Practice
 
-- **Software engineering:** Full-stack application development, frontend interfaces, backend APIs, and system integration.
-- **Databases:** Relational database design, MySQL, Firebase, and data migration.
-- **Application security:** Authentication, authorization, RBAC, input validation, and secure application design.
-- **Cloud and infrastructure:** AWS fundamentals, Linux administration, Apache web server configuration, and application deployment.
-- **ICT consulting:** Business process digitization, system implementation, technical support, and digital transformation.
+- **Software Engineering:** Full-stack application development, frontend interfaces, backend APIs, and system integration.
+- **Database Management:** Relational database design, MySQL, Firebase, and data migration.
+- **Application Security:** Authentication, authorization, role-based access control, input validation, and secure application design.
+- **Cloud and Infrastructure:** AWS, Linux administration, Apache web server configuration, and application deployment.
+- **ICT Consulting:** Business process digitization, system implementation, technical support, and digital transformation.
 
 ## Featured Projects
 
@@ -63,34 +63,30 @@ I am open to opportunities in software engineering, cloud and cybersecurity, and
 
 **Technologies:** PHP, MySQL, JavaScript, Apache, Debian Linux
 
-A customer experience management solution developed for an institutional service environment. The system supports customer service workflows, queue management, feedback collection, reporting, and administrative operations.
+A customer experience management solution designed for an institutional service environment. The system supports customer service workflows, queue management, feedback collection, reporting, and administrative operations.
 
 - Migrated application data from Firebase services to a self-hosted MySQL database.
-- Implemented a PHP API layer to support communication between the application interfaces and the database.
+- Implemented a PHP API layer to support communication between application interfaces and the database.
 - Preserved record identifiers during migration to support data integrity.
-- Includes operational reporting and customer feedback functionality.
+- Supports operational reporting and customer feedback functionality.
 
-**Reported impact:** Supports more than 50,000 annual service requests, with customer satisfaction reported to have increased from a 65% baseline to 92%.
+**Reported impact:** Supports more than 50,000 annual service requests, with customer satisfaction increasing from a 65% baseline to 92%.
 
-**Live system:** [cems.orpp.or.ke](https://cems.orpp.or.ke)
-
-*Note: This is an institutional system. Public code, screenshots, technical details, and performance figures should be shared only where authorized.*
+**Live system:** [cems.orpp.or.ke](https://cems.orpp.or.ke/)
 
 ### 2. ORPP E-Recruitment System
 
 **Technologies:** Web application development, database management, authentication, and application security
 
-A digital recruitment platform supporting the recruitment process through online applicant registration, application submission, data validation, and application status tracking.
+A digital recruitment platform that supports online applicant registration, application submission, data validation, and application status tracking.
 
-- Supports online recruitment workflows.
-- Provides an interface for applicants to manage and track their applications.
+- Supports digital recruitment workflows.
+- Enables applicants to manage and track their applications.
 - Helps digitize recruitment processes and reduce reliance on manual handling.
 
 **Reported impact:** A 70% reduction in manual processing time.
 
-**Live system:** [recruitment.orpp.or.ke](https://recruitment.orpp.or.ke)
-
-*Note: Performance claims should be supported by documented measurements, and project details should respect institutional authorization and confidentiality requirements.*
+**Live system:** [recruitment.orpp.or.ke](https://recruitment.orpp.or.ke/)
 
 ### 3. Umoja SDA — Church and School Funds Management
 
@@ -98,12 +94,12 @@ A digital recruitment platform supporting the recruitment process through online
 
 A financial and administrative management application designed to support church and school operations within one solution.
 
-- Supports financial records and reporting.
-- Covers areas such as contributions, school fees, expenses, and related administrative workflows.
+- Supports financial record management and reporting.
+- Covers contributions, school fees, expenses, and related administrative workflows.
 - Uses role-based access controls to separate user responsibilities.
 - Applies Firebase security rules to help protect application data.
 
-**Live application:** [sdacms.web.app](https://sdacms.web.app)
+**Live application:** [sdacms.web.app](https://sdacms.web.app/)
 
 **Source code:** [View repository](https://github.com/samplegithubj/umoja-sda-system)
 
@@ -111,20 +107,16 @@ A financial and administrative management application designed to support church
 
 ## Certifications
 
-The following are certifications I report holding:
-
 - Google Cybersecurity Professional Certificate
 - Cisco CyberOps Associate
 - Cisco Certified Network Associate (CCNA)
 - Huawei HCIA-Datacom
 - AWS Certified Cloud Practitioner
 
-*Certification names should match the exact titles on the issuing organizations' credentials. Add credential verification links where available.*
-
 ## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samplegithubj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub contribution and repository statistics for John Wafula Were" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samplegithubj&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics for John Wafula Were" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samplegithubj&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages on GitHub" />
 </p>
 
