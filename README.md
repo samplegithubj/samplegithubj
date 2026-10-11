@@ -1,4 +1,4 @@
- <!-- Animated Banner -->
+<!-- Animated Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=1E90FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+John+Wafula+Were;Software+Engineer+%7C+Full-Stack+Developer;Cloud+%26+Cybersecurity;Secure+by+Design;Building+Practical+Digital+Solutions" alt="John Wafula Were — Software Engineer, Full-Stack Developer, Cloud and Cybersecurity" />
 </p>
@@ -24,7 +24,7 @@ I am **John Wafula Were**, a software engineer and full-stack developer based in
 
 My work spans full-stack web development, database design, system integration, Linux server administration, cloud technologies, and cybersecurity. I am interested in using technology to improve business processes, strengthen information security, and support digital transformation.
 
-I have worked on production-oriented systems involving customer experience management, digital recruitment, and financial management. My approach emphasizes **secure-by-design development, role-based access control (RBAC), data integrity, usability, and reliable deployment**.
+I have worked on systems involving customer experience management, digital recruitment, and financial management. My approach emphasizes **secure-by-design development, role-based access control (RBAC), data integrity, usability, and reliable deployment**.
 
 I welcome opportunities in software engineering, cloud and cybersecurity, and ICT consulting.
 
@@ -32,6 +32,8 @@ I welcome opportunities in software engineering, cloud and cybersecurity, and IC
 - **Primary focus:** Full-stack software engineering
 - **Additional interests:** Cloud infrastructure, cybersecurity, ICT consulting, and digital transformation
 - **Portfolio:** [johnwere.netlify.app](https://johnwere.netlify.app/)
+
+---
 
 ## Technical Skills
 
@@ -57,6 +59,8 @@ I welcome opportunities in software engineering, cloud and cybersecurity, and IC
 - **Cloud and Infrastructure:** AWS, Linux administration, Apache web server configuration, and application deployment.
 - **ICT Consulting:** Business process digitization, system implementation, technical support, and digital transformation.
 
+---
+
 ## Featured Projects
 
 ### 1. Customer Experience Management System (CEMS)
@@ -78,7 +82,7 @@ A customer experience management solution designed for an institutional service 
 
 **Technologies:** Web application development, database management, authentication, and application security
 
-A digital recruitment platform that supports online applicant registration, application submission, data validation, and application status tracking.
+A digital recruitment platform supporting online applicant registration, application submission, data validation, and application status tracking.
 
 - Supports digital recruitment workflows.
 - Enables applicants to manage and track their applications.
@@ -113,6 +117,8 @@ A financial and administrative management application designed to support church
 - Huawei HCIA-Datacom
 - AWS Certified Cloud Practitioner
 
+---
+
 ## GitHub Activity
 
 <p align="center">
@@ -124,9 +130,23 @@ A financial and administrative management application designed to support church
   <img src="https://streak-stats.demolab.com?user=samplegithubj&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
+### Recent GitHub Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samplegithubj&theme=react-dark&hide_border=true" alt="GitHub activity graph" />
+  <a href="https://github.com/samplegithubj">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=samplegithubj&theme=react-dark&hide_border=true"
+      alt="GitHub activity graph for John Wafula Were"
+      width="100%"
+    />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/samplegithubj?tab=repositories">Explore My GitHub Repositories</a>
+</p>
+
+---
 
 ## Professional Interests
 
@@ -139,6 +159,8 @@ I am interested in opportunities and collaborations involving:
 - Digital transformation and public-sector technology solutions.
 
 I welcome opportunities to collaborate on practical projects that solve real problems and deliver measurable value.
+
+---
 
 ## Connect With Me
 
